@@ -28,7 +28,7 @@ To replicate the project, follow these steps:
 
 2. **Model Training**: Train the GRU model using the preprocessed data.
 
-3.. **Prediction**: Use the trained model to make predictions on new text data. `n` in the prediction function refers to how many predictions do you want of the sentence.
+3. **Prediction**: Use the trained model to make predictions on new text data. `n` in the prediction function refers to how many predictions do you want of the sentence.
 
 ## Results
 
