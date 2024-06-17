@@ -1,7 +1,3 @@
-Certainly! Here's a README file based on the content you provided:
-
----
-
 # Messaging Data Prediction using Deep Learning
 
 ## Overview
